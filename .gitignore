@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Local data directory
+data/
+
+# Environment variables
+.env
+
+# Docker Compose override
+docker-compose.override.yml
+
+# VS Code settings
+.vscode/
